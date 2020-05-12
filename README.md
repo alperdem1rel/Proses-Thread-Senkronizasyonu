@@ -16,22 +16,21 @@ PARÇA 4: BACAK -> 2 öğe(pantolon, kemer)
 
 PARÇA 5: AYAK -> 2 öğe(el dezenfektanı, eldiven)
 
-KURALLAR
 
-*İlk olarak atlet giyilir.
-
-
-*Çorap ve gömlek, pantolondan önce giyilir.
+kural1-İlk olarak atlet giyilir.
 
 
-*Ayakkabı, dezenfektan ürünlerinden önce, pantolondan sonra giyilir.
+kural2-Çorap ve gömlek, pantolondan önce giyilir.
 
 
-*Eldiven, kemerden sonra; sağlık maskesinden önce takılır.
+kural3-Ayakkabı, dezenfektan ürünlerinden önce, pantolondan sonra giyilir.
 
 
-*Tulum, boneden sonra giyilir.
+kural4-Eldiven, kemerden sonra; sağlık maskesinden önce takılır.
 
 
-*En son koruyucu plastik yüz maskesi giyilir.
+kural5-Tulum, boneden sonra giyilir.
+
+
+kural6-En son koruyucu plastik yüz maskesi giyilir.
 
